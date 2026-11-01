@@ -1,0 +1,31 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+
+# SQLite database (auto-generated)
+*.db
+
+# historical.json (auto-generated on first run)
+backend/historical.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# React build output
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
